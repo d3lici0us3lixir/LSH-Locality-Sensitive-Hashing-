@@ -1,4 +1,4 @@
-#include "Shingle.h"
+﻿#include "Shingle.h"
 
 vector<string> shingle(uint8_t input_string[], int size, int arrsize)
 {
