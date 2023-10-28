@@ -90,10 +90,10 @@ int main() {
 	aria:uint8 12 uint8
 lea:uint8 24 uint8
 seed:uint32 16 uint32(uint8)
-blowfish: uint32_t 2 16라운드 uint32_t 2
- 카멜 8_t 16
-기프 8_t 16
-선물 8_t 8
+blowfish: uint32_t 2 16round uint32_t 2
+camlellia 8_t 16
+gift 8_t 16
+present 8_t 8
 */
 
 /*
